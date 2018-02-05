@@ -1,0 +1,2 @@
+# powerofnum
+power of number
